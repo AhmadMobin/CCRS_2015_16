@@ -1,4 +1,6 @@
 Province,Number of Discharged residents,Discharged Residents-Proportion of all residents,Died in facility (%),Discharged to acute/other hospital (%),Discharged home (%),Discharged to residential care (%)
 MN,2214,28.3,72.5,4.1,1.7,21.5
 SK,4238,33.3,60.7,9.8,11.1,18.2
-AB,7259,34.0,63.2,18.8,11.3,6.2
+AB,7259,34,63.2,18.8,11.3,6.2
+ON,36534,32.0,48.1,19.7,22.3,9.9
+BC,9183,20.8,76.6,4.2,2.8,16.2
